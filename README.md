@@ -20,4 +20,4 @@ To get started with the project, follow these steps:
 
 Program the FPGA by DAC_controller.vhd and test the board using dac_test Python file.
 
-![Test Result](img/test_result.JPG)
+![Test Result](img/test_result.jpg)
